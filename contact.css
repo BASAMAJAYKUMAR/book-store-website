@@ -1262,3 +1262,14 @@ form {
   }
 }
 
+
+@media only screen and (max-width: 769px) and (min-width: 765px) {
+
+  .input-field {
+    width: 50%;
+    height: 40px;
+  }
+
+}
+
+
