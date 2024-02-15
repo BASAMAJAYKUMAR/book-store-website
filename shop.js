@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const countdownLabels = document.querySelectorAll(".countdown-label");
   
     function updateCountdown() {
-      const endDate = new Date("2024-02-29T23:59:59").getTime();
+      const endDate = new Date("2024-04-15T23:59:59").getTime();
       const now = new Date().getTime();
       const timeDifference = endDate - now;
   
